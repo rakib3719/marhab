@@ -4,7 +4,6 @@ A starter template for creating React Apps, styled with Tailwind CSS.
 
 ## Getting started
 
-<hr>
 
 First, fork this repo.
 
