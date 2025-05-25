@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Silver Meet & Greet",
+    "frontImg": "https://example.com/images/silver-service.jpg",
+    "gallery": [
+      "https://example.com/images/silver1.jpg",
+      "https://example.com/images/silver2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Fast Track",
+        "amount": 344
+      }
+    ],
+    "description": "Perfect for first-time travelers. Includes meet and greet, fast-track airport formalities, one porter service, and lounge access at Dubai Terminal 3.",
+    "bestFor": ["Senior travellers", "First time travellers", "Group travellers"],
+    "features": [
+      "Airport Meet and Greet",
+      "Lounge Access",
+      "Porter Assistance",
+      "Fast-track Immigration"
+    ]
+  },
+  {
+    "name": "Gold Meet & Greet",
+    "frontImg": "https://example.com/images/gold-service.jpg",
+    "gallery": [
+      "https://example.com/images/gold1.jpg",
+      "https://example.com/images/gold2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Priority Clearance",
+        "amount": 499
+      }
+    ],
+    "description": "A premium service offering personal assistance throughout the airport journey, expedited immigration, and luxury lounge access.",
+    "bestFor": ["Business travellers", "Luxury travellers"],
+    "features": [
+      "Personal Airport Escort",
+      "Luxury Lounge",
+      "Fast-track Security",
+      "Premium Porter"
+    ]
+  },
+  {
+    "name": "Platinum Elite Meet & Greet",
+    "frontImg": "https://example.com/images/platinum.jpg",
+    "gallery": [
+      "https://example.com/images/platinum1.jpg",
+      "https://example.com/images/platinum2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Elite Access",
+        "amount": 899
+      }
+    ],
+    "description": "Top-tier experience with private lounge, personal butler, and VIP terminal transfers.",
+    "bestFor": ["VIP travellers", "Celebrities", "High-end clients"],
+    "features": [
+      "Dedicated Airport Butler",
+      "Private Terminal",
+      "Luxury Transfers",
+      "Complete Baggage Handling"
+    ]
+  },
+  {
+    "name": "Family Travel Assist",
+    "frontImg": "https://example.com/images/family.jpg",
+    "gallery": [
+      "https://example.com/images/family1.jpg",
+      "https://example.com/images/family2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Family Package",
+        "amount": 299
+      }
+    ],
+    "description": "Stress-free airport journey for families with children. Includes meet & greet, stroller assistance, and fast-tracking.",
+    "bestFor": ["Families", "Travelling with kids"],
+    "features": [
+      "Child-friendly Lounges",
+      "Fast-track for families",
+      "Stroller Assistance",
+      "Snack Packs for Kids"
+    ]
+  },
+  {
+    "name": "Senior Care Travel",
+    "frontImg": "https://example.com/images/senior.jpg",
+    "gallery": [
+      "https://example.com/images/senior1.jpg",
+      "https://example.com/images/senior2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Senior Support",
+        "amount": 275
+      }
+    ],
+    "description": "Designed for older travellers with assistance in baggage, wheelchairs, and navigating airport procedures.",
+    "bestFor": ["Elderly travellers", "Assisted travel"],
+    "features": [
+      "Wheelchair Service",
+      "Dedicated Airport Assistant",
+      "Baggage Help",
+      "Medical Support On Request"
+    ]
+  },
+  {
+    "name": "Business Express Service",
+    "frontImg": "https://example.com/images/business.jpg",
+    "gallery": [
+      "https://example.com/images/business1.jpg",
+      "https://example.com/images/business2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Express Entry",
+        "amount": 399
+      }
+    ],
+    "description": "Optimized for business professionals—minimal wait, seamless check-in, and fast exit routes.",
+    "bestFor": ["Corporate travellers", "Businessmen"],
+    "features": [
+      "Quick Check-in",
+      "Meeting Room Access",
+      "High-speed Wi-Fi",
+      "Quiet Lounges"
+    ]
+  },
+  {
+    "name": "Luxury Honeymoon Welcome",
+    "frontImg": "https://example.com/images/honeymoon.jpg",
+    "gallery": [
+      "https://example.com/images/honeymoon1.jpg",
+      "https://example.com/images/honeymoon2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Romantic Package",
+        "amount": 525
+      }
+    ],
+    "description": "Tailored for honeymooners, includes flowers, chocolates, priority service, and photo ops.",
+    "bestFor": ["Couples", "Honeymoon travellers"],
+    "features": [
+      "Couples Escort",
+      "Welcome Gifts",
+      "Priority Boarding",
+      "Private Lounge Seating"
+    ]
+  },
+  {
+    "name": "Transit Companion Service",
+    "frontImg": "https://example.com/images/transit.jpg",
+    "gallery": [
+      "https://example.com/images/transit1.jpg",
+      "https://example.com/images/transit2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Transit Help",
+        "amount": 180
+      }
+    ],
+    "description": "Helpful for travelers with long or complex layovers, includes assistance switching terminals and re-checking luggage.",
+    "bestFor": ["International travellers", "Long layovers"],
+    "features": [
+      "Multi-Terminal Guidance",
+      "Luggage Recheck",
+      "Flight Rebooking Support",
+      "Lounge Recommendations"
+    ]
+  },
+  {
+    "name": "Student Traveller Assist",
+    "frontImg": "https://example.com/images/student.jpg",
+    "gallery": [
+      "https://example.com/images/student1.jpg",
+      "https://example.com/images/student2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "Student Plan",
+        "amount": 150
+      }
+    ],
+    "description": "Created for young students traveling abroad for the first time. Includes meet & greet, form help, and campus info kits.",
+    "bestFor": ["Students", "Exchange travellers"],
+    "features": [
+      "Form Filling Assistance",
+      "Customs Help",
+      "University Shuttle Support",
+      "Sim Card and Info Kit"
+    ]
+  },
+  {
+    "name": "Premium Arrival Service",
+    "frontImg": "https://example.com/images/arrival.jpg",
+    "gallery": [
+      "https://example.com/images/arrival1.jpg",
+      "https://example.com/images/arrival2.jpg"
+    ],
+    "serviceType": [
+      {
+        "name": "VIP Arrival",
+        "amount": 450
+      }
+    ],
+    "description": "Ideal for VIP arrivals — direct from plane to car with expedited processing and personal greeters.",
+    "bestFor": ["High-net-worth individuals", "Private jet users"],
+    "features": [
+      "On-Tarmac Pickup",
+      "Luxury Transfer",
+      "Passport Control Bypass",
+      "Champagne Reception"
+    ]
+  }
+]

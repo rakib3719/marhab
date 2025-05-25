@@ -8,14 +8,16 @@ import Edit from "./pages/Edit";
 import User from "./pages/User";
 import Notfound from "./pages/Notfound";
 import Users from "./pages/Users";
+import ServiceDetails from "./components/ServiceDetails";
 
 function App() {
   return (
     <Router>
-      <Navbar />
+
       <Routes>
         <Route index element={<Home />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/services/:id" element={<ServiceDetails />} />
         <Route path="/register" element={<Register />} />
         <Route path="/profile" element={<Dashboard />} />
         <Route path="/profile/edit" element={<Edit />} />
@@ -23,6 +25,7 @@ function App() {
         <Route path="/users/:username" element={<User />} />
         {/* <Route path="/404" element={<Notfound />} /> */}
         <Route path="*" element={<Notfound />} />
+      
       </Routes>
     </Router>
   );
